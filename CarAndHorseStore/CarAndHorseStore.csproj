@@ -65,7 +65,13 @@
   <ItemGroup>
     <Compile Include="Interfaces\IProduct.cs" />
     <Compile Include="Interfaces\IUser.cs" />
+    <Compile Include="Models\BodyType.cs" />
+    <Compile Include="Models\Brand.cs" />
+    <Compile Include="Models\Breed.cs" />
+    <Compile Include="Models\Color.cs" />
+    <Compile Include="Models\EngineType.cs" />
     <Compile Include="Models\Horse.cs" />
+    <Compile Include="Models\Sex.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
